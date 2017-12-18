@@ -1,0 +1,14 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "A Shopping List",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "John AZ1",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
